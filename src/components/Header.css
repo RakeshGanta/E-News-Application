@@ -1,0 +1,35 @@
+header {
+  background-color: #b2ea70;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+.h1-cont {
+  flex: 0.5;
+}
+
+.btn-cont {
+  flex: 0.3;
+}
+
+.header-view {
+  padding: 16px 16px;
+  display: inline-flex;
+}
+.search-cont {
+  flex: 1;
+}
+.news-icon {
+  padding-bottom: 2%;
+}
+h1 {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+}
+@media screen and (max-width: 500px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+}
+
+/* .burger {
+  display: none;
+} */

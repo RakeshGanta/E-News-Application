@@ -1,0 +1,48 @@
+.content {
+  display: flex;
+}
+
+.left {
+  width: 40%;
+  padding-top: 1%;
+}
+.right {
+  padding: 2%;
+  padding-top: 4%;
+  width: 70%;
+  text-align: left;
+}
+.heading {
+  text-align: center;
+}
+.submit-btn {
+  margin-left: 25%;
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+.page-btn {
+  margin-left: 30%;
+  margin-bottom: 10%;
+  margin-top: 2%;
+}
+.buttons {
+  margin-left: 10%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.search-forms {
+  margin-left: 0%;
+}
+
+#listss {
+  display: none;
+}
+#rights {
+  width: 100%;
+}
+@media screen and (max-width: 500px) {
+  #rights {
+    width: 100%;
+  }
+}

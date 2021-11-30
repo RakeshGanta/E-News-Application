@@ -1,0 +1,13 @@
+.button-group {
+  margin-left: 25%;
+  margin-top: 3%;
+}
+#id {
+  display: flex;
+}
+.body {
+  padding: 2%;
+}
+.contents {
+  font-weight: 400;
+}
